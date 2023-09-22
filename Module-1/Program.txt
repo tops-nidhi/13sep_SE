@@ -1,0 +1,12 @@
+Program:-
+Set instruction.
+
+Programming:-
+Process of creating program
+
+types of programming language:
+1. High level programming language
+-> Near human and far from the machine
+
+2. Low level programming language
+-> Near machine and far from the human

@@ -1,0 +1,25 @@
+Software:-
+-> Software is a collection of information, instruction and data.
+
+types:
+1. System Software:-
+- Operating system (OS)
+For ex., Android, ios, windows, linux, etc.........
+
+2. Application Software:-
+    i) Desktop Application
+    -> For ex., VS code, notepad, firefox, etc...... 
+
+    ii) Mobile Application
+    -> Instagram, netflix, snap, etc......
+
+    iii)Web Application
+    ->Web browser  
+
+3. Programming Software:-
+-> A program that can be written in any programming language to perform specific task.
+-> Compiler
+-> Interpreter
+
+4.Deriver Software:-
+-> For ex., bluetooth deriver, audio deriver, etc.....
