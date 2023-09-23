@@ -7,6 +7,18 @@ Process of creating program
 types of programming language:
 1. High level programming language
 -> Near human and far from the machine
+Types of Programming language:
+1.POP - Procedure Oriented Programming
+-> c programming language
+2. OOP - Object Oriented Programming
+-> c++ 
+3. Logical Programming 
+-> prolog
+4. Functional Programming
+-> python
+5. Scripting 
+-> javascript, perl
+
 
 
 2. Low level programming language
