@@ -23,3 +23,7 @@ For ex., Android, ios, windows, linux, etc.........
 
 4.Deriver Software:-
 -> For ex., bluetooth deriver, audio deriver, etc.....
+
+5. Middleware Software:-
+-> It's an intermediary software between two or more applications/software.
+-> For ex., database

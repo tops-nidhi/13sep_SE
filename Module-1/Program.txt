@@ -8,5 +8,9 @@ types of programming language:
 1. High level programming language
 -> Near human and far from the machine
 
+
 2. Low level programming language
 -> Near machine and far from the human
+Types of languages:
+1. Assembly Language(Machine code)
+2. Machine Language
