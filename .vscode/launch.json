@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Nidhi batch/Software Engineering/13sep_SE/Module-2/Statement/Looping/Jumping-Statments",
-      "program": "d:/Nidhi batch/Software Engineering/13sep_SE/Module-2/Statement/Looping/Jumping-Statments/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
