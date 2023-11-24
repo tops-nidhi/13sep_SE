@@ -1,0 +1,1 @@
+// Abstraction is use to hide the background detail which was unnecessary for the user
