@@ -1,0 +1,2 @@
+  int no;
+    string name;
