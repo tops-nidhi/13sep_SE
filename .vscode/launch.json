@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Nidhi batch/Software Engineering/13sep_SE/Module-3/Inheritance",
-      "program": "d:/Nidhi batch/Software Engineering/13sep_SE/Module-3/Inheritance/build/Debug/outDebug",
+      "cwd": "d:/Nidhi batch/Software Engineering/13sep_SE",
+      "program": "d:/Nidhi batch/Software Engineering/13sep_SE/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
