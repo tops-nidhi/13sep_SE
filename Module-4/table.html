@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+
+<body>
+    <center>
+        <!-- Use to create the table -->
+        <table border="5px" cellspacing="3px" cellpadding="5px" width="100%">
+            <!-- Description of the table -->
+            <caption>Student Info</caption>
+            <thead style="background-color: rebeccapurple;color: #fff;">
+                <!-- Use to create the row -->
+                <!-- TR = Table Row -->
+                <tr>
+                    <!-- Use to create head -->
+                    <!-- TH = Table Head -->
+                    <th>No</th>
+                    <th>Name</th>
+                    <th>Standard</th>
+                </tr>
+            </thead>
+            <tbody style="background-color: bisque;">
+            <tr>
+                <!-- Use to add data -->
+                <!-- TD = Table Data -->
+                <td>1</td>
+                <td>Niharika</td>
+                <td rowspan="2">7th</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Devika</td>
+                <!-- <td>7th</td> -->
+            </tr>
+            <tr align="center">
+                <td>3</td>
+                <td>Pranalika</td>
+                <td>9th</td>
+            </tr>
+            </tbody>
+            <tfoot style="background: mediumpurple;">
+            <tr align="right">
+                <td colspan="3">Total: 3</td>
+            </tr>
+            </tfoot>
+        </table>
+    </center>
+</body>
+
+</html>
